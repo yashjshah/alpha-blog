@@ -1,1 +1,1 @@
-THis is the repository for the first alpha-blog app git 
+first alpha-blog app
