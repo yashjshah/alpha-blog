@@ -1,1 +1,1 @@
-THis is the repository for the first alpha-blog app of the COmplete RUby on Rails Coursegit 
+THis is the repository for the first alpha-blog app git 
