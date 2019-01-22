@@ -1,1 +1,1 @@
-first alpha-blog app
+Alpha-blog app is a blogging app developed using Ruby on Rails. Once u are logged in the app, u can create new articles, add categories to the article and save it to your bloggers page. The app also provides the user to edit the article and update it. You can scroll the users listing and view the other bloggers and the articles created by them. Gravatar is used to add the profile image of the users. Additionally, the users can click on any category and see the articles associated with that category.
